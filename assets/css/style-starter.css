@@ -14397,6 +14397,7 @@ h3.global-white {
   z-index: 0;
   display: grid;
   align-items: center;
+  
 }
 
 @media (max-width: 992px) {
